@@ -1,3 +1,4 @@
-# This program prints Hello world!
+# This program says Hello to you!
 
-print('Hello world!')
+name = input()
+print("hello "+name)
